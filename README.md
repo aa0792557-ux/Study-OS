@@ -1,1 +1,1 @@
-# Study-OS
+Student Study Planner (StudyMate) is a mobile application developed using React Native and Expo. It helps students manage study tasks, organize subjects, and plan schedules. It uses Firebase for authentication and data storage, Expo Router for navigation, and a REST API to display motivational quotes.# Study-OS
